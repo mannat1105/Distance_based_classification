@@ -1,4 +1,5 @@
 # Distance_based_classification
+Below are the answers to the questions asked for report:
 Ans1. 
 1. Euclidean Distance
 2. Manhattan Distance
