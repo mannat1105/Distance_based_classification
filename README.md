@@ -2,7 +2,7 @@
 Ans1. 
 1. Euclidean Distance
 2. Manhattan Distance
-3. Minkowski Distance 
+3. Minkowski Distance
 4. Cosine Similarity
 5. Hamming Distance 
 6. Mahalanobis Distance
